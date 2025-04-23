@@ -1,6 +1,6 @@
 ## 🚛 Armado Óptimo de Vehículos de Transporte de Paquetes (Ramificación y Poda)
 
-El armado eficiente de vehículos de reparto es un desafío logístico fundamental en operaciones de distribución y última milla. Estos vehículos deben ser cargados siguiendo un orden específico de entrega, pero los paquetes están almacenados en filas tipo "pila", lo que genera restricciones físicas al acceso. En este proyecto desarrollamos un algoritmo que, mediante **ramificación y poda**, encuentra la **forma óptima de cargar un vehículo** con el menor número de movimientos posibles, respetando dichas restricciones.
+El armado eficiente de vehículos de reparto es un desafío logístico fundamental en operaciones de distribución. Estos vehículos deben ser cargados siguiendo un orden específico de entrega, pero los paquetes están almacenados en filas tipo "pila", lo que genera restricciones físicas al acceso. En este proyecto desarrollamos un algoritmo que, mediante **ramificación y poda**, encuentra la **forma óptima de cargar un vehículo** con el menor número de movimientos posibles, respetando dichas restricciones.
 
 ---
 
