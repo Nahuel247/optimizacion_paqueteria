@@ -50,6 +50,7 @@ initial_yard = [
 
 goal = ['A', 'A', 'A', 'A', 'B', 'B', 'B', 'C', 'C']
 ```
+![{48DD9D90-C5D3-4694-9392-EB61457789B7}](https://github.com/user-attachments/assets/7644c4e7-98a8-43d3-bea9-1358210628c4)
 
 El algoritmo encontró una **solución óptima** que permite cargar el vehículo en el orden requerido, utilizando el menor número posible de movimientos. Además, devuelve una **secuencia detallada de pasos** para ejecutar dicha carga.
 
